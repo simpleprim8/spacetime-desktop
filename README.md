@@ -10,6 +10,8 @@ seconds each, making a continuous 7½-minute cycle.
 [Watch a complete 90-second journey](media/journey.mp4), or a
 [short native-rendered excerpt](media/preview.mp4). Both play at normal speed.
 
+https://github.com/user-attachments/assets/0d1c4737-e772-4f24-a5eb-69d7c7baae53
+
 The camera explores above and below the mesh, crosses the field and gradually
 accelerates toward the point before swooping away. Localized rotation enters
 in one direction, settles, then reverses on departure. There is no revealed
