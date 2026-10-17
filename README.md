@@ -7,7 +7,8 @@ seconds each, making a continuous 7½-minute cycle.
 
 ![The single transparent spacetime funnel](media/preview.png)
 
-[Watch a short native-rendered excerpt](media/preview.mp4).
+[Watch a complete 90-second journey](media/journey.mp4), or a
+[short native-rendered excerpt](media/preview.mp4). Both play at normal speed.
 
 The camera explores above and below the mesh, crosses the field and gradually
 accelerates toward the point before swooping away. Localized rotation enters
